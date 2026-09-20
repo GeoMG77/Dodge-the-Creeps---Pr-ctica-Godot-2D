@@ -27,6 +27,6 @@ Además del tutorial base, se implementaron las siguientes características:
    - Se implementó el uso de Grupos de nodos (`add_to_group("power_ups")`) para limpiar la pantalla de objetos sobrantes al reiniciar la partida.
 
 ## Instrucciones de Ejecución
-En la carpeta `/build` se encuentra el ejecutable del juego compilado y listo para probarse en Windows. 
+En la carpeta /build se encuentra un archivo de texto con el enlace de descarga directa al ejecutable del juego (alojado en Drive debido a los límites de tamaño de GitHub). Está compilado y listo para probarse en Windows 
 
 Para revisar el código fuente, se recomienda abrir el archivo `project.godot` utilizando la rama *stable* del motor Godot.
